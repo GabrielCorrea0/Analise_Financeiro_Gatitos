@@ -3,6 +3,8 @@
 
 <a href= "https://app.powerbi.com/view?r=eyJrIjoiNmM3YmNiMjgtODE2Yi00NzM5LWI5OTItOTBjOGM3ODNmZmVkIiwidCI6ImY4YWVjZjQ0LWRmNzgtNDg3Yy04M2UzLWY4OTk0NzFjMmMzOCJ9"> > Link para o Dashboard < </a>
 
+ <img src = Curso-BI-Gatitos\Imagem_Gatitos.png alt="DashBoard" width="500" height="300" class="Meu Dash" title="Dashboard">
+
 Relatório Financeiro do Pet Shop Gatitos
 
 Este projeto foi desenvolvido como parte do curso de Power BI oferecido pela Alura. O objetivo principal foi criar um relatório financeiro detalhado para o Pet Shop Gatitos, que possibilitasse a obtenção de insights valiosos para o gerenciamento financeiro e a tomada de decisões estratégicas.
